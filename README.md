@@ -4,6 +4,7 @@
 📸 Building real-time facial recognition systems with deep learning  
 🔐 Passionate about security tech and smart automation
 
+**I HAVE RESEARCH PAPER AND BLACK BOOK REPORT ON THIS PROJECT. IF YOU WANT MORE DETAILED PROJECT THEN CONTACT ME.**
 
 🔧 Tech Stack & Tools
 
